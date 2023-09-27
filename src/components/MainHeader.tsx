@@ -46,7 +46,7 @@ const MainHeader = () => {
 				<Btn variant="ghost" className=" text-black">
 					<Icons.setting className="h-6 w-6" />
 				</Btn>
-				<div className="bg-slate-200 flex justify-center items-center font-bold text-slate-300 h-10 w-10 flex-shrink-0 rounded-full">
+				<div className="bg-slate-100 flex justify-center items-center font-bold text-slate-300 h-10 w-10 flex-shrink-0 rounded-full">
 					AS
 				</div>
 			</div>

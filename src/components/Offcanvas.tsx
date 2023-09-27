@@ -49,7 +49,7 @@ const Offcanvas = ({
 	return (
 		<div
 			data-isopen={isOpen}
-			className=" bg-slate-100 p-4  z-30 absolute top-0 left-full data-[isopen=false]:-translate-x-full transition-transform gap-8   w-[320px] lg:w-[420px]  h-full "
+			className=" bg-slate-100 p-4  z-30 absolute top-0 left-full data-[isopen=false]:-translate-x-full transition-transform gap-8   w-[320px] xl:w-[420px]  h-full "
 		>
 			{openedSection == "home" && <OffCanvesHome />}
 		</div>

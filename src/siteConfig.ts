@@ -1,0 +1,116 @@
+export const config = {
+  candidates : [
+	{
+		id: crypto.randomUUID(),
+		name: "Aaliyah Sanderson",
+		residence: "Riyadh, Saudi Arabia",
+		education: "Bachelor - Cambridge University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "John Doe",
+		residence: "Bostom, USA",
+		education: "Bachelor - MIT (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Thomas Matt",
+		residence: "Edinburgh, UK",
+		education: "Bachelor - Harvard University (2023 - 2023))",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Kamilia Smith",
+		residence: "London, UK",
+		education: "Bachelor - Boston University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Roy Jade",
+		residence: "Cambridge,  UK",
+		education: "Bachelor - Yale (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Ahmed Salman",
+		residence: "New York, USA",
+		education: "Bachelor - Cambridge University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+		video: 4,
+		programs: 5,
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Aaliyah Sanderson",
+		residence: "Riyadh, Saudi Arabia",
+		education: "Bachelor - Cambridge University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Aaliyah Sanderson",
+		residence: "Riyadh, Saudi Arabia",
+		education: "Bachelor - Cambridge University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+	{
+		id: crypto.randomUUID(),
+		name: "Aaliyah Sanderson",
+		residence: "Riyadh, Saudi Arabia",
+		education: "Bachelor - Cambridge University (2023 - 2023)",
+		tags: ["#top_candidate ", "#top_candidate"],
+		info: ["new york ", "markiting", "london"],
+	},
+],
+ filters : [
+	{
+		name: "applied",
+		numOfReasult: 1745,
+	},
+	{
+		name: "shortlisted",
+		numOfReasult: 453,
+	},
+	{
+		name: "texhnical interveiw",
+		numOfReasult: 123,
+	},
+	{
+		name: "opportunity browsing",
+		numOfReasult: 243,
+	},
+	{
+		name: "vedio interview I",
+		numOfReasult: 25,
+	},
+	{
+		name: "vedio interview II",
+		numOfReasult: 25,
+	},
+	{
+		name: "vedio interview III",
+		numOfReasult: 25,
+	},
+	{
+		name: "offer",
+		numOfReasult: 25,
+	},
+	{
+		name: "withdraw",
+		numOfReasult: 25,
+	},
+],
+}

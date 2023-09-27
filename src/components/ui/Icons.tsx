@@ -1,9 +1,11 @@
 import { ReactNode } from "react";
 import {
 	BsCalendar2Check,
+	BsJournalBookmark,
 	BsJournalText,
 	BsPersonPlus,
 	BsPersonSlash,
+	BsPlayCircle,
 } from "react-icons/bs";
 import {
 	GoChevronDown,
@@ -41,4 +43,6 @@ Icons.calendar = BsCalendar2Check;
 Icons.personAdd = BsPersonPlus;
 Icons.personDelete = BsPersonSlash;
 Icons.textFile = BsJournalText;
+Icons.book = BsJournalBookmark;
+Icons.play = BsPlayCircle;
 export default Icons;
