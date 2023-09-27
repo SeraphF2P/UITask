@@ -95,7 +95,7 @@ function DropDown() {
 
 function CandidateSectionHeader() {
 	return (
-		<div className=" z-40 flex items-center px-4 justify-between  border-b-[1px] rounded-t-md sticky -top-4 bg-white h-16 w-full">
+		<div className=" z-30 flex items-center px-4 justify-between  border-b-[1px] rounded-t-md sticky -top-4 bg-white h-16 w-full">
 			<div className="text-center flex items-center gap-4 font-semibold text-primary">
 				<CheckBox />
 				<span>247 Candidates</span>
